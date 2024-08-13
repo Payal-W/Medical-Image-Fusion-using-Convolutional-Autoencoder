@@ -6,8 +6,9 @@ This project involves the development of a Convolutional Autoencoder model desig
 
 The model is trained and tested on a custom dataset generated from the Harvard Medical School’s whole brain atlas, consisting of CT-MR T2, SPECT-MR T2, and PET-MR T2 pairs of anatomical and functional images.
 
+# Model Architecture
 ![Model Architecture image](https://github.com/user-attachments/assets/3ea74b7d-ca32-4fe8-9b59-a3af9e377453)
 
-
+# Image Fusion Framework
 ![Fusion Framework Image](https://github.com/user-attachments/assets/783474a8-a720-4bb5-87fc-2f2c9a27a14e)
 
